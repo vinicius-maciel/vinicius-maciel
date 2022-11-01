@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá 👋
+
+## Estudante de Análise e Desenvolvimento de Sistemas. 
+ [LinkedIn](https://www.linkedin.com/in/maciel-vinicius/)
 
 <!--
 **vinicius-maciel/vinicius-maciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
